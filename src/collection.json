@@ -4,6 +4,10 @@
     "playground": {
       "description": "A blank schematic.",
       "factory": "./playground/index#playground"
+    },
+    "sandbox": {
+      "description": "A blank schematic.",
+      "factory": "./sandbox/index#sandbox"
     }
   }
 }
